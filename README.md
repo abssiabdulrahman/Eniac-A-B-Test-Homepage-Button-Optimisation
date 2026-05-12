@@ -111,11 +111,9 @@ Key findings:
 
 Despite Version C showing slightly better numbers across all metrics, **my recommendation is to keep Version A — the original White "SHOP NOW" button.**
 
-The CTR difference between A and C is only 0.10 percentage points (2.02% vs 2.12%), which is not statistically significant. This means the improvement is too small to be confident it reflects a real difference and not just random variation in the data.
+The CTR difference between A and C is only 0.10 percentage points (2.02% vs 2.12%).
 
 Making a change to a live production website carries real costs — development time, QA, deployment risk, and potential disruption to users who are already familiar with the current button. Given that the gain does not clearly justify those costs, the most practical and risk-aware decision is to stay with the existing version.
-
-If Eniac wants to pursue further optimisation, a follow-up experiment focused only on A and C with a larger sample size and a smaller minimum detectable effect would give a more reliable answer.
 
 ---
 
